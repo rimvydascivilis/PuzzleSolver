@@ -1,6 +1,6 @@
 # Solve puzzle from "Escape Academy" game
 ![puzzle visulization](img/puzzle.png?raw=true "puzzle")
-Image is from "Escape Academy" game
+Image from "Escape Academy" game
 ## Usage:
 ### Clone repo
 ```
