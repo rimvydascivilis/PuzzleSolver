@@ -10,6 +10,7 @@ git clone https://github.com/rimvydascivilis/PuzzleSolver.git
 ```
 cd PuzzleSolver
 ```
+### Adjust values in main.py
 ### Run main.py
 ```
 python3 main.py
